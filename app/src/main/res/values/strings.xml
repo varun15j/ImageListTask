@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android List Sample</string>
+    <string name="swipe_to_refresh">Swipe to refresh</string>
+    <string name="no_repos_found">No Data Found</string>
+    <string name="description">Description</string>
+    <string name="created_by">Created by</string>
+    <string name="stars">Stars</string>
+    <string name="repoListTitle">About Canada.</string>
+</resources>
