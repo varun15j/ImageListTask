@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Android List Sample</string>
+    <string name="app_name">Android List Sample CI</string>
     <string name="swipe_to_refresh">Swipe to refresh</string>
     <string name="no_repos_found">No Data Found</string>
     <string name="description">Description</string>
